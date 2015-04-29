@@ -1,0 +1,41 @@
+/*
+Theme Name: Shannon's Awesome Theme
+Version: 1.0
+Description: A child theme of Dorian
+Template: dorian
+*/
+
+@import url("../dorian/style.css");
+
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Lobster+Two);
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
+
+html{
+    font-family: "Lobster";
+}
+
+header{
+   font-family: "Lobster"; 
+    font-size: 1em;
+}
+h1{
+   font-family: "Lobster Two"; 
+}
+h2{
+   font-family: "Lobster Two"; 
+   color:magenta;
+}
+h3{
+   font-family: "Lobster Two"; 
+    color: darkkhaki;
+}
+h4{
+   font-family: "Lobster Two"; 
+}
+body{
+    font-family: "Kaushan Script";
+}
+p{
+   color: dimgray;
+}
